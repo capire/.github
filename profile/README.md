@@ -1,6 +1,6 @@
 # Welcome to Capire Samples
 
-Find here a curated collection of samples for the [SAP Cloud Application Programming Model](https://cap.cloud.sap). 
+Find here a curated collection of samples for the [_SAP Cloud Application Programming Model (CAP)_](https://cap.cloud.sap). 
 You can clone and run them individually, or as part of the _capire/samples_ monorepo, that is, both of the below work:
 
 ```sh
