@@ -1,4 +1,4 @@
-# Welcome to Capire Samples
+# Welcome to Capire Docs & Samples
 
 Find here a curated collection of samples for the [_SAP Cloud Application Programming Model (CAP)_](https://cap.cloud.sap). 
 
