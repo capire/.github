@@ -1,6 +1,6 @@
 # Welcome to Capire Docs & Samples
 
-Find here both, the [sources of the official capire docs](https://github.com/capire/docs), as well as a curated collection of reference samples for the [_SAP Cloud Application Programming Model (CAP)_](https://cap.cloud.sap) maintained by the CAP team. 
+Find here both, the [sources of the official _capire_ docs](https://github.com/capire/docs), as well as a curated collection of reference samples for the [_SAP Cloud Application Programming Model (CAP)_](https://cap.cloud.sap) maintained by the CAP team. 
 
 ## Usage 
 
