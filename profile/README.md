@@ -26,4 +26,4 @@ git clone --recursive http://github.com/capire/samples  # all in one
 
 Contributions are very welcome. Everybody can create issues and send pull requests via forks. 
 
-Ensure to read the [SAP Open Source Contribution](../CONTRIBUTING.md) guidelines for further details. 
+Read the [SAP Open Source Contribution](../CONTRIBUTING.md) guidelines for further details. 
