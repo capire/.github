@@ -13,6 +13,6 @@ git clone --recursive http://github.com/capire/samples  # all in one
 
 > [!tip]
 > <details>
->  <summary> Get the best overview in the _Repositories_ tab, switched to _Compact_ view (click here to show) </summary>
+>  <summary> Get the best overview in the <i>Repositories</i> tab, switched to <i>Compact</i> view (click here to show) </summary>
 >  <img width="700" height="777" alt="image" src="https://github.com/user-attachments/assets/f1a05e86-1b9d-4e70-af7f-139d41da1aed" />
 > </details>
