@@ -4,7 +4,7 @@ Find here both, the [sources of the official _capire_ docs](https://github.com/c
 
 ## Usage 
 
-These samples are meant for everyone to use for learning purposes, by downloading, cloning, forking respective repositories. 
+The samples are meant for everyone to use for learning purposes, by downloading, cloning, forking respective repositories. 
 You can clone and run samples individually, or as part of the [_capire/samples_](https://github.com/capire/samples) monorepo, that is, both of the below work:
 
 ```sh
