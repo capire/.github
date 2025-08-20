@@ -1,4 +1,4 @@
-# Welcome to Capire Docs & Samples
+## Welcome to Capire Docs & Samples
 
 Find here the [sources of the _capire_ docs](https://github.com/capire/docs), and a curated collection of samples for the [_SAP Cloud Application Programming Model_](https://cap.cloud.sap), maintained by the CAP team. 
 
